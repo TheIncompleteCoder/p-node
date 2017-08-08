@@ -29,3 +29,14 @@ main(int argc,char *argv[]){
   
   return 0;
 }
+
+int 
+insert(p_node**,int){
+p_node *temp1,*temp2;
+//*temp1 = (p_node*)malloc(sizeof(p_node));
+//temp1->array[] = data;
+
+
+}
+
+
